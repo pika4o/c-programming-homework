@@ -2,7 +2,7 @@
 #include<stdlib.h>
     int main () {
     int n,m,suma,i;
-    float average;
+    float average=0;
     scanf("%d", &n);
     suma=0;
     for (i=0; i<n; i++)
