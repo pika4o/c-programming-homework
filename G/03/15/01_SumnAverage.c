@@ -10,7 +10,7 @@
         scanf("%d", &m);
         suma=suma+m;
     }
-    average=suma/m;
+    average=suma/n;
     printf("\nSum: %d", suma);
     printf("\nAvg: %.2f", average);
 
