@@ -12,7 +12,7 @@
     }
     average=suma/m;
     printf("\nSum: %d", suma);
-    printf("\nAgv: %.2f", average);
+    printf("\nAvg: %.2f", average);
 
     return 0;
     }
