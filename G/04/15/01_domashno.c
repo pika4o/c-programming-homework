@@ -10,7 +10,7 @@
         }
         for(i=m-1;i>=0;i--)
         {
-            printf("%d", masiv[i]);
+            printf("%d\n", masiv[i]);
         }
 
        return 0;
