@@ -35,7 +35,7 @@
             if(r[i]!=0)
             {
                 k='a'+i;
-                printf("%c-%d\n", k,r[i]);
+                printf("%c - %d\n", k,r[i]);
             }
         }
         return 0;
