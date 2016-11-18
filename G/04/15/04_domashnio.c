@@ -1,7 +1,7 @@
 #include<stdio.h>
     int main (){
-        float k[64],t,m,y;
-        int i,n,h;
+        float k[64],t,y;
+        int i,n,h,m;
         y=0;
         h=0;
        for(i=0;scanf("%f", &t)!=0;i++)
